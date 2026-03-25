@@ -1,0 +1,8 @@
+openai
+pandas
+numpy
+PyPDF2
+streamlit
+requests
+json
+python-dotenv
