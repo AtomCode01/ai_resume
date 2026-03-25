@@ -174,4 +174,4 @@ This ensures:
 ## License
 
 Open for personal use and modification.
-But just let me know, i look seeing development
+But just let me know, i love to see development in this.
