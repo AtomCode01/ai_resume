@@ -124,6 +124,7 @@ if st.button("Generate Resume (LaTeX)"):
             file_name="resume.tex",
             mime="text/plain"
         )
+        st.link_button("Copy Latex code, Click to go Latex compiler", "https://prism.openai.com/")
 
         st.link_button("Free online compiler for Latex :", "https://prism.openai.com/")
 
